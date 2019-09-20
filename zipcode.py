@@ -23,4 +23,4 @@ elif zip_code == 49349:
 else:
     print(f"The zip code {zip_code} is not in Newaygo County")
 
-again = input("Would You like to enter another zip code (Y/N)?")
+input("Would You like to enter another zip code (Y/N)?")
